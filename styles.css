@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(30, 30, 30);
+    color: white;
+}
+
+.page-header,
+.nav-link {
+    text-align: center;
+}
+
+.page-header {
+    font-size: 75px;
+}
+
+.nav-link {
+    font-size: 25px;
+}
